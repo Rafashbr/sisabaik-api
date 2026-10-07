@@ -2,3 +2,13 @@ node_modules/
 .env
 .DS_Store
 npm-debug.log*
+
+# File Chapter 4
+README.md
+app.js
+daftar-penyedia.html
+data/
+images/
+index.html
+styles.css
+tawarkan-makanan.html
