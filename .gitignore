@@ -13,3 +13,5 @@ images/
 index.html
 styles.css
 tawarkan-makanan.html
+.env
+node_modules/
